@@ -42,11 +42,11 @@ Your progress is saved on your device. If you sign in with **Google Play Games**
 
 ## 5. Advertising
 
-The App is free to play and shows ads served by Google AdMob. How ads use data, and how to change your ad choices, is explained in our [Privacy Policy](https://fmussap.github.io/cozy-grind-privacy/).
+The App is free to play and shows ads served by Google AdMob. How ads use data, and how to change your ad choices, is explained in our [Privacy Policy](https://afnextgames.com/cozy-grind-privacy/).
 
 ## 6. Privacy
 
-Our [Privacy Policy](https://fmussap.github.io/cozy-grind-privacy/) explains what data is collected and how it is used. It forms part of these Terms.
+Our [Privacy Policy](https://afnextgames.com/cozy-grind-privacy/) explains what data is collected and how it is used. It forms part of these Terms.
 
 ## 7. Intellectual property
 
